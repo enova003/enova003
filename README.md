@@ -1,5 +1,7 @@
 # Portfolio 
 
+Please click on each of the blue embedded links in this portfolio to see my work.
+
 ## [Seed & Soil Co. Agriculture Website](https://seed-and-soil-enova003s-projects.vercel.app/)
 
 **Technologies Used: TypeScript, Next.js, MUI, Node.js**
