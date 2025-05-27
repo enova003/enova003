@@ -1,5 +1,5 @@
 # Web Based Portfolio 
-### ***Note: These are web-based projects. For examples of scripts, object-oriented programming, RESTful API implementations, full-stack applications, or VHDL code, please explore my other repositories.***
+### ***Note: These are web-based projects. For examples of non-deployed scripts, object-oriented programming, RESTful API implementations, full-stack applications, or VHDL code, please explore my other repositories.***
 
 Please click on each of the blue embedded links in this portfolio to see my work.
 
