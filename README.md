@@ -1,6 +1,8 @@
-# Portfolio 
+# Web Based Portfolio 
 
 Please click on each of the blue embedded links in this portfolio to see my work.
+
+**Note: These are web-based projects. For examples of scripts, object-oriented programming, RESTful API implementations, full-stack applications, or VHDL code, please explore my other repositories.**
 
 ## [Seed & Soil Co. Agriculture Website](https://seed-and-soil-enova003s-projects.vercel.app/)
 
